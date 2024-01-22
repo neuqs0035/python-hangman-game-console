@@ -22,11 +22,13 @@ Before running the script, ensure you have the following installed:
 ## How to Run
 
 1. **Clone the Repository:**
+   
    ```bash
    git clone https://github.com/neuqs0035/python-hangman-game-console.git
    cd python-hangman-game-console
    ```
 2. **Run Normally:**
+   
    ```bash
    python main.py
    ```
